@@ -1,0 +1,229 @@
+/*****************************
+General
+******************************/
+a
+{
+    text-decoration: none;
+}
+
+
+/*****************************
+HEADING
+******************************/
+
+header
+{
+    
+    margin-top: -30px;
+    float: left;
+    padding: 5px;
+    width: 100%;
+    background: #233237;
+    text-align: center;
+    
+}
+.main_img
+{
+    max-width: 100%;
+    border-radius: 50%;
+    padding: 0px;
+    height: 120px;
+    width: 120px;
+     display: inline-block;
+}
+body
+{
+    margin: 0;
+}
+header h1 , h2
+{
+    padding: 15px 0;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color: orange;
+}
+
+nav
+{
+    background: #fba100;
+    padding-bottom: 0;
+}
+nav ul li a
+{
+        color: #233237;;
+        font-weight: 800;
+        font-size: 20px;
+        font-family: 'Orbitron', sans-serif;
+        
+}
+
+
+nav a:hover
+{
+    color: white;
+}
+.selected
+{
+    color: white;
+}
+
+.selected:hover
+{
+    color: #233237;
+}
+nav ul
+{
+    list-style: none;
+}
+
+nav li
+{
+    display: inline-block;
+    padding: 15px;
+    margin: 5px;
+}
+/*********************************
+Section
+*************************************/
+section
+{
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+    
+}
+section h2
+{
+    padding-top:200px;
+    color: #fba100;
+    padding-bottom: 0;
+}
+
+#wrapper
+{
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 10%;
+    color: black;
+    padding-bottom: 5%;
+}
+
+section h3
+{
+    color: #fba100;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.y
+{
+   font-family: cursive;
+    font-size: 25px; 
+    font-weight: 400;
+}
+
+/*********************************
+Footer
+*************************************/
+footer
+{
+    width: 100%;
+    text-align: center;
+    background: #233237;
+    height: 250px;;
+}
+.i
+{
+    background-color: #fba100;
+    
+}
+
+footer img
+{
+    max-width: 100%;
+    border-radius: 50%;
+    margin: 5px;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+}
+
+
+footer b
+{
+    color: seashell;
+    font-weight: 100; 
+}
+
+/************************************
+Gallery.html
+***********************************/
+/*--------------------------------------------------------------------------------------------------------*/
+
+
+/************************************
+Section_gallery
+***********************************/
+
+.gallery img
+{
+    width: 1200px;
+    height: 700px;
+    padding: 25px;
+    text-align: center;
+    
+}
+.gallery
+{
+    list-style: none;
+}
+
+.gallery p
+{
+    font-family: 'Love Ya Like A Sister', cursive;
+    color:darkred;
+}
+
+#wrapper1
+{
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 10%;
+    color: black;
+    padding-bottom: 5%;
+}
+
+/************************************
+lessons.html
+***********************************/
+/*--------------------------------------------------------------------------------------------------------*/
+
+
+/************************************
+Section_lessons
+***********************************/
+#wrapper2
+{
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 10%;
+    padding-bottom: 5%;
+    line-height: 50px;
+}
+#wrapper2 section 
+{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+#wrapper2 img  
+{
+    text-align: center;
+}
+.selected
+{
+    color: white;
+}
+
+.selected:hover
+{
+    color: #233237;
+}
